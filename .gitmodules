@@ -1,0 +1,6 @@
+[submodule "serenitybdd-cucumber-screenplay"]
+	path = serenitybdd-cucumber-screenplay
+	url = https://github.com/nikecarvaggio/serenitybdd-cucumber-screenplay.git
+[submodule "karate-framework"]
+	path = karate-framework
+	url = https://github.com/nikecarvaggio/karate-framework.git
